@@ -1,1 +1,3 @@
-# gundb-sea-poc
+# gundb SEA crypto scheme in python
+
+checkout `test.py`
